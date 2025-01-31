@@ -1,0 +1,33 @@
+[
+
+    {
+        "name": "Raihan Gazi",
+        "designation": "Associate Officer",
+        "salary": 44500,
+        "city": "Dhaka"
+    },
+    {
+        "name": "Rajib Hossain",
+        "designation": "IOS Developer",
+        "salary": 90000,
+        "city": "Dhaka"
+    },
+    {
+        "name": "Borhan Ashrafi",
+        "designation": "Businessman",
+        "salary": 200000,
+        "city": "Dhaka"
+    },
+    {
+        "name": "Shahadat Hossain",
+        "designation": "Firefighter",
+        "salary": 80000,
+        "city": "Dohar"
+    },
+    {
+        "name": "Nayeem Rahman",
+        "designation": "Assistant HR",
+        "salary": 40000,
+        "city": "Cox's Bazar"
+    }
+]

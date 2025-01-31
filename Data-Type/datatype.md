@@ -1,0 +1,11 @@
+### MongoDB Data Types
+- String
+- Integer
+- Boolean
+- Double
+- Min/Max Keys
+- Arrays
+- Object
+- Null
+- Symbol
+- Date
