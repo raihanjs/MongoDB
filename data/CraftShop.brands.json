@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "679ccba11cf5d9c3d864eff1"
+  },
+  "name": "Apple",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "679ccbc2828e8e43d945211e"
+  },
+  "name": "Huawei"
+},
+{
+  "_id": {
+    "$oid": "679ccbc6887d232ab9506a4c"
+  },
+  "name": "Nokia",
+  "city": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "679cd4adaabd80574b9ddcd0"
+  },
+  "name": "Xiomi"
+},
+{
+  "_id": {
+    "$oid": "679cd4c0eabb877722e3a6c7"
+  },
+  "name": "Oneplus"
+}]

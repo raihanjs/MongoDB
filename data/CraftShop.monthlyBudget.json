@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "679cecb56a2fbf8ad6a45a81"
+  },
+  "category": "food",
+  "budget": 400,
+  "spent": 450
+},
+{
+  "_id": {
+    "$oid": "679cecb56a2fbf8ad6a45a82"
+  },
+  "category": "drinks",
+  "budget": 100,
+  "spent": 150
+},
+{
+  "_id": {
+    "$oid": "679cecb56a2fbf8ad6a45a83"
+  },
+  "category": "clothes",
+  "budget": 100,
+  "spent": 50
+},
+{
+  "_id": {
+    "$oid": "679cecb56a2fbf8ad6a45a84"
+  },
+  "category": "misc",
+  "budget": 500,
+  "spent": 300
+},
+{
+  "_id": {
+    "$oid": "679cecb56a2fbf8ad6a45a85"
+  },
+  "category": "travel",
+  "budget": 1500,
+  "spent": 650
+},
+{
+  "_id": {
+    "$oid": "679cf24d6a2fbf8ad6a45a8e"
+  },
+  "category": "movies",
+  "budget": 300,
+  "spent": 300
+}]

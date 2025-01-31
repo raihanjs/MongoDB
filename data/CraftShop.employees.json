@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6e8"
+  },
+  "name": "John Doe",
+  "designation": "Software Engineer",
+  "salary": 75000,
+  "city": "New York"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6e9"
+  },
+  "name": "Jane Smith",
+  "designation": "Product Manager",
+  "salary": 95000,
+  "city": "San Francisco"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6ec"
+  },
+  "name": "David Williams",
+  "designation": "Data Scientist",
+  "salary": 105000,
+  "city": "Boston"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6ee"
+  },
+  "name": "Chris Taylor",
+  "designation": "Web Developer",
+  "salary": "55000",
+  "city": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6ef"
+  },
+  "name": "Amanda Martinez",
+  "designation": "Sales Manager",
+  "salary": 80000,
+  "city": "Miami"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f0"
+  },
+  "name": "Robert Garcia",
+  "designation": "Network Engineer",
+  "salary": 72000,
+  "city": "Dallas"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f1"
+  },
+  "name": "Linda Lee",
+  "designation": "Content Writer",
+  "salary": 48000,
+  "city": "Denver"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f2"
+  },
+  "name": "James Wilson",
+  "designation": "Systems Administrator",
+  "salary": 86000,
+  "city": "Houston"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f3"
+  },
+  "name": "Patricia Moore",
+  "designation": "Business Analyst",
+  "salary": 67000,
+  "city": "Phoenix"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f4"
+  },
+  "name": "Daniel Jackson",
+  "designation": "DevOps Engineer",
+  "salary": "95000",
+  "city": "San Diego"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f5"
+  },
+  "name": "Jessica Robinson",
+  "designation": "Quality Assurance Engineer",
+  "salary": 55000,
+  "city": "Philadelphia"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f6"
+  },
+  "name": "William Clark",
+  "designation": "Creative Director",
+  "salary": 105000,
+  "city": "Las Vegas"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f7"
+  },
+  "name": "Susan Hall",
+  "designation": "Customer Support Manager",
+  "salary": 62000,
+  "city": "Charlotte"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f8"
+  },
+  "name": "Thomas Allen",
+  "designation": "Chief Marketing Officer",
+  "salary": 130000,
+  "city": "Atlanta"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6f9"
+  },
+  "name": "Karen Young",
+  "designation": "Accountant",
+  "salary": 55000,
+  "city": "Detroit"
+},
+{
+  "_id": {
+    "$oid": "679cd8ef8b6e631f4c8ff6fa"
+  },
+  "name": "Joseph Harris",
+  "designation": "Project Manager",
+  "salary": 90000,
+  "city": "Minneapolis"
+}]
