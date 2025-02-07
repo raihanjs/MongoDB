@@ -1,0 +1,361 @@
+===================================Category Collection===================================
+{
+    "_id" : ObjectId("67a59493d7e530d077072f95"),
+    "name" : "TV",
+    "CategoryId" : "CategoryTV06022025",
+    "CreateDate" : "2025-02-07T12:00:00Z"
+}
+{
+    "_id" : ObjectId("67a59493d7e530d077072f96"),
+    "name" : "Fan",
+    "CategoryId" : "CategoryFan06022025",
+    "CreateDate" : "2025-02-07T12:30:00Z"
+}
+{
+    "_id" : ObjectId("67a59493d7e530d077072f97"),
+    "name" : "Refrigerator",
+    "CategoryId" : "CategoryRefrigerator06022025",
+    "CreateDate" : "2025-02-07T13:00:00Z"
+}
+{
+    "_id" : ObjectId("67a59493d7e530d077072f98"),
+    "name" : "Water Heater",
+    "CategoryId" : "CategoryWaterHeater06022025",
+    "CreateDate" : "2025-02-07T13:30:00Z"
+}
+{
+    "_id" : ObjectId("67a59493d7e530d077072f99"),
+    "name" : "AC",
+    "CategoryId" : "CategoryAC06022025",
+    "CreateDate" : "2025-02-07T14:00:00Z"
+}
+{
+    "_id" : ObjectId("67a59493d7e530d077072f9a"),
+    "name" : "Oven",
+    "CategoryId" : "CategoryOven06022025",
+    "CreateDate" : "2025-02-07T14:30:00Z"
+}
+
+===================================Brand Collection===================================
+{
+    "_id" : ObjectId("67a594cad7e530d077072f9b"),
+    "name" : "LG",
+    "BrandId" : "LG06022025",
+    "CreateDate" : "2025-02-07T12:00:00Z"
+}
+{
+    "_id" : ObjectId("67a594cad7e530d077072f9c"),
+    "name" : "Samsung",
+    "BrandId" : "Samsung06022025",
+    "CreateDate" : "2025-02-07T12:30:00Z"
+}
+{
+    "_id" : ObjectId("67a594cad7e530d077072f9d"),
+    "name" : "Vision",
+    "BrandId" : "Vision06022025",
+    "CreateDate" : "2025-02-07T13:00:00Z"
+}
+{
+    "_id" : ObjectId("67a594cad7e530d077072f9e"),
+    "name" : "Singer",
+    "BrandId" : "Singer06022025",
+    "CreateDate" : "2025-02-07T13:30:00Z"
+}
+{
+    "_id" : ObjectId("67a594cad7e530d077072f9f"),
+    "name" : "Walton",
+    "BrandId" : "Walton06022025",
+    "CreateDate" : "2025-02-07T14:00:00Z"
+}
+
+===================================Products Collection===================================
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa0"),
+    "CategoryId" : "CategoryTV06022025",
+    "BrandId" : "LG06022025",
+    "Name" : "LG 55-inch Smart TV",
+    "Price" : 799.99,
+    "Unit" : "inch",
+    "Details" : "55-inch 4K UHD Smart TV with OLED display",
+    "CreateDate" : "2025-02-07T15:00:00Z",
+    "ProductId" : "ProductTV001"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa1"),
+    "CategoryId" : "CategoryTV06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 65-inch Smart TV",
+    "Price" : 999.99,
+    "Unit" : "inch",
+    "Details" : "65-inch 4K UHD Smart TV with HDR and OLED display",
+    "CreateDate" : "2025-02-07T15:30:00Z",
+    "ProductId" : "ProductTV002"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa2"),
+    "CategoryId" : "CategoryFan06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 1200mm Ceiling Fan",
+    "Price" : NumberInt(75),
+    "Unit" : "inch",
+    "Details" : "1200mm ceiling fan with 5 blades and remote control",
+    "CreateDate" : "2025-02-07T16:00:00Z",
+    "ProductId" : "ProductFan001"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa3"),
+    "CategoryId" : "CategoryFan06022025",
+    "BrandId" : "Walton06022025",
+    "Name" : "Walton 1400mm Ceiling Fan",
+    "Price" : NumberInt(80),
+    "Unit" : "inch",
+    "Details" : "1400mm ceiling fan with high-speed motor",
+    "CreateDate" : "2025-02-07T16:30:00Z",
+    "ProductId" : "ProductFan002"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa4"),
+    "CategoryId" : "CategoryRefrigerator06022025",
+    "BrandId" : "Vision06022025",
+    "Name" : "Vision 250L Double Door Refrigerator",
+    "Price" : 499.99,
+    "Unit" : "lt",
+    "Details" : "250L capacity, energy-efficient double-door refrigerator",
+    "CreateDate" : "2025-02-07T17:00:00Z",
+    "ProductId" : "ProductRefrigerator001"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa5"),
+    "CategoryId" : "CategoryRefrigerator06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 300L Frost-Free Refrigerator",
+    "Price" : 599.99,
+    "Unit" : "lt",
+    "Details" : "300L capacity, frost-free refrigerator with digital inverter",
+    "CreateDate" : "2025-02-07T17:30:00Z",
+    "ProductId" : "ProductRefrigerator002"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa6"),
+    "CategoryId" : "CategoryWaterHeater06022025",
+    "BrandId" : "Singer06022025",
+    "Name" : "Singer 15L Instant Water Heater",
+    "Price" : NumberInt(120),
+    "Unit" : "lt",
+    "Details" : "15L capacity, instant water heater with temperature control",
+    "CreateDate" : "2025-02-07T18:00:00Z",
+    "ProductId" : "ProductWaterHeater001"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa7"),
+    "CategoryId" : "CategoryWaterHeater06022025",
+    "BrandId" : "Walton06022025",
+    "Name" : "Walton 25L Instant Water Heater",
+    "Price" : NumberInt(150),
+    "Unit" : "lt",
+    "Details" : "25L capacity, instant water heater with advanced safety features",
+    "CreateDate" : "2025-02-07T18:30:00Z",
+    "ProductId" : "ProductWaterHeater002"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa8"),
+    "CategoryId" : "CategoryAC06022025",
+    "BrandId" : "Walton06022025",
+    "Name" : "Walton 1.5 Ton Split Air Conditioner",
+    "Price" : NumberInt(650),
+    "Unit" : "inch",
+    "Details" : "1.5 Ton split AC with inverter technology",
+    "CreateDate" : "2025-02-07T19:00:00Z",
+    "ProductId" : "ProductAC001"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa9"),
+    "CategoryId" : "CategoryAC06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 2 Ton Inverter Air Conditioner",
+    "Price" : NumberInt(850),
+    "Unit" : "inch",
+    "Details" : "2 Ton inverter AC with 5-star energy rating",
+    "CreateDate" : "2025-02-07T19:30:00Z",
+    "ProductId" : "ProductAC002"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072faa"),
+    "CategoryId" : "CategoryOven06022025",
+    "BrandId" : "LG06022025",
+    "Name" : "LG 30L Convection Microwave Oven",
+    "Price" : NumberInt(250),
+    "Unit" : "inch",
+    "Details" : "30L microwave oven with convection and grill functions",
+    "CreateDate" : "2025-02-07T20:00:00Z",
+    "ProductId" : "ProductOven001"
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fab"),
+    "CategoryId" : "CategoryOven06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 32L Convection Microwave Oven",
+    "Price" : NumberInt(275),
+    "Unit" : "inch",
+    "Details" : "32L convection microwave oven with smart control and multiple modes",
+    "CreateDate" : "2025-02-07T20:30:00Z",
+    "ProductId" : "ProductOven002"
+}
+
+===================================Lookup Query===================================
+db.products.aggregate([
+    {
+        $lookup: {
+            from: "categories",
+            localField: "CategoryId",
+            foreignField: "CategoryId",
+            as: "CategoryDetails"
+        }
+    },
+    {
+        $lookup: {
+            from: "brands",
+            localField: "BrandId",
+            foreignField: "BrandId",
+            as: "BrandDetails"
+        }
+    },
+    {$skip: 5},
+    {$limit: 5},
+])
+===================================Query Result===================================
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa5"),
+    "CategoryId" : "CategoryRefrigerator06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 300L Frost-Free Refrigerator",
+    "Price" : 599.99,
+    "Unit" : "lt",
+    "Details" : "300L capacity, frost-free refrigerator with digital inverter",
+    "CreateDate" : "2025-02-07T17:30:00Z",
+    "ProductId" : "ProductRefrigerator002",
+    "CategoryDetails" : [
+        {
+            "_id" : ObjectId("67a59493d7e530d077072f97"),
+            "name" : "Refrigerator",
+            "CategoryId" : "CategoryRefrigerator06022025",
+            "CreateDate" : "2025-02-07T13:00:00Z"
+        }
+    ],
+    "BrandDetails" : [
+        {
+            "_id" : ObjectId("67a594cad7e530d077072f9c"),
+            "name" : "Samsung",
+            "BrandId" : "Samsung06022025",
+            "CreateDate" : "2025-02-07T12:30:00Z"
+        }
+    ]
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa6"),
+    "CategoryId" : "CategoryWaterHeater06022025",
+    "BrandId" : "Singer06022025",
+    "Name" : "Singer 15L Instant Water Heater",
+    "Price" : NumberInt(120),
+    "Unit" : "lt",
+    "Details" : "15L capacity, instant water heater with temperature control",
+    "CreateDate" : "2025-02-07T18:00:00Z",
+    "ProductId" : "ProductWaterHeater001",
+    "CategoryDetails" : [
+        {
+            "_id" : ObjectId("67a59493d7e530d077072f98"),
+            "name" : "Water Heater",
+            "CategoryId" : "CategoryWaterHeater06022025",
+            "CreateDate" : "2025-02-07T13:30:00Z"
+        }
+    ],
+    "BrandDetails" : [
+        {
+            "_id" : ObjectId("67a594cad7e530d077072f9e"),
+            "name" : "Singer",
+            "BrandId" : "Singer06022025",
+            "CreateDate" : "2025-02-07T13:30:00Z"
+        }
+    ]
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa7"),
+    "CategoryId" : "CategoryWaterHeater06022025",
+    "BrandId" : "Walton06022025",
+    "Name" : "Walton 25L Instant Water Heater",
+    "Price" : NumberInt(150),
+    "Unit" : "lt",
+    "Details" : "25L capacity, instant water heater with advanced safety features",
+    "CreateDate" : "2025-02-07T18:30:00Z",
+    "ProductId" : "ProductWaterHeater002",
+    "CategoryDetails" : [
+        {
+            "_id" : ObjectId("67a59493d7e530d077072f98"),
+            "name" : "Water Heater",
+            "CategoryId" : "CategoryWaterHeater06022025",
+            "CreateDate" : "2025-02-07T13:30:00Z"
+        }
+    ],
+    "BrandDetails" : [
+        {
+            "_id" : ObjectId("67a594cad7e530d077072f9f"),
+            "name" : "Walton",
+            "BrandId" : "Walton06022025",
+            "CreateDate" : "2025-02-07T14:00:00Z"
+        }
+    ]
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa8"),
+    "CategoryId" : "CategoryAC06022025",
+    "BrandId" : "Walton06022025",
+    "Name" : "Walton 1.5 Ton Split Air Conditioner",
+    "Price" : NumberInt(650),
+    "Unit" : "inch",
+    "Details" : "1.5 Ton split AC with inverter technology",
+    "CreateDate" : "2025-02-07T19:00:00Z",
+    "ProductId" : "ProductAC001",
+    "CategoryDetails" : [
+        {
+            "_id" : ObjectId("67a59493d7e530d077072f99"),
+            "name" : "AC",
+            "CategoryId" : "CategoryAC06022025",
+            "CreateDate" : "2025-02-07T14:00:00Z"
+        }
+    ],
+    "BrandDetails" : [
+        {
+            "_id" : ObjectId("67a594cad7e530d077072f9f"),
+            "name" : "Walton",
+            "BrandId" : "Walton06022025",
+            "CreateDate" : "2025-02-07T14:00:00Z"
+        }
+    ]
+}
+{
+    "_id" : ObjectId("67a59742d7e530d077072fa9"),
+    "CategoryId" : "CategoryAC06022025",
+    "BrandId" : "Samsung06022025",
+    "Name" : "Samsung 2 Ton Inverter Air Conditioner",
+    "Price" : NumberInt(850),
+    "Unit" : "inch",
+    "Details" : "2 Ton inverter AC with 5-star energy rating",
+    "CreateDate" : "2025-02-07T19:30:00Z",
+    "ProductId" : "ProductAC002",
+    "CategoryDetails" : [
+        {
+            "_id" : ObjectId("67a59493d7e530d077072f99"),
+            "name" : "AC",
+            "CategoryId" : "CategoryAC06022025",
+            "CreateDate" : "2025-02-07T14:00:00Z"
+        }
+    ],
+    "BrandDetails" : [
+        {
+            "_id" : ObjectId("67a594cad7e530d077072f9c"),
+            "name" : "Samsung",
+            "BrandId" : "Samsung06022025",
+            "CreateDate" : "2025-02-07T12:30:00Z"
+        }
+    ]
+}

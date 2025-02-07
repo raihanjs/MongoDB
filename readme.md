@@ -65,5 +65,7 @@ MongoDB তে দুই ধরনের Data Model নিয়ে কাজ ক�
 
 - Data Types 
 - MongoDB Atlas
+- MongoDB Query
+
 
 
